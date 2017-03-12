@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JnSmbCh2CustomerApplication {
+public class CustomerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JnSmbCh2CustomerApplication.class, args);
+		SpringApplication.run(CustomerApplication.class, args);
 	}
 }
