@@ -1,4 +1,4 @@
-package jnajdi.sandbox.example;
+package jnajdi.sandbox.customer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
